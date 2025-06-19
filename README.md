@@ -2,10 +2,8 @@
 
 
 # Experience
-
 Business Intelligence Intern
 ## PalmPay (Fintech Company) — April 2025
-
 - Support the BI team with data analysis tasks, including report generation, data validation, and visualization using Power BI and SQL.
 
 - Improved reporting turnaround time by creating reusable Power BI templates and Excel trackers, reducing repetitive tasks by 30%.
