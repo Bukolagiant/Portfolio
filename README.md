@@ -12,6 +12,7 @@
   
 ####  Tools used: Excel, SQL, Power BI, Python (Jupyter)
 
+
 ## Sidmach (Tech Company) 2024 - 2025
 # Data Analyst Intern
 - Built interactive Power BI dashboards to visualize product performance and customer metrics, improving decision-making for the product team
