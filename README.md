@@ -10,7 +10,6 @@
 - Identified and corrected inconsistencies in transactional data, improving data accuracy and enabling faster decision-making
 - Collaborated with team members to automate weekly reports, cutting down manual processes and freeing up over 5 hours weekly
   
-####  Tools used: Excel, SQL, Power BI, Python (Jupyter)
 
 
 
