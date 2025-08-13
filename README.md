@@ -31,7 +31,7 @@
 
 
 ## Projects
-# Lung Cancer Analysis
+# [Lung Cancer Analysis](https://github.com/Bukolagiant/Cancer_patients_dataset)
 This project involved analyzing a structured dataset of 1,000 patients to identify the key contributors to lung cancer risks based on lifestyle, genetic, environmental, and symptomatic factors. The project aimed to build a data-driven foundation for early detection and public health policy recommendations, particularly within the middle-aged population demographic.
 This project analyses the major cause of lung cancer 
 
