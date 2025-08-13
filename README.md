@@ -22,7 +22,29 @@
 - Delivered strategic recommendations that improved user satisfaction and reduced churn by addressing early app friction points.
 
 
-# Projects
-## Cancer patients 
+## Karisfoods (Foods Company) 2022 - 2025
+# Business Operations Manager
+- Managing supply chain, vendor relations, budgeting and remote team coordination.
+- Streamline processes to improve efficiency, ensure compliance with food safety standards and support business growth
+ goals.
+- Leverage Salesforce, CRM tools, and SEO strategies to enhance customer engagement, optimize workflows and boost
+ market visibility.
+- Track performance metrics, prepare operational reports and implement cost-control measures to drive profitability.
+
+
+## Projects
+# Cancer Patients
+
+
+
+
+
+
+
+
+
+
+
+
 
 
