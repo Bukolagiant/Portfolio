@@ -14,8 +14,9 @@ navigation:
  - link: "/"
  - name: "Projects"
    - sublinks:
-        - name: "
+        - name: "Lung Cancer Patients Analysis"
         - link: "https://github.com/Bukolagiant/Cancer_patients_dataset"
+        - name: 
       
  
 
