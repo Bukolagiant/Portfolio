@@ -11,8 +11,6 @@
 - Collaborated with team members to automate weekly reports, cutting down manual processes and freeing up over 5 hours weekly
   
 
-
-
 ## Sidmach (Software Company) 2024 - 2025
 # Data Analyst – LESNOTEAI (Intern Project)
 - Collaborated with a team of tech interns to develop LESNOTEAI, an AI-powered lesson note generator. 
@@ -27,13 +25,14 @@
 - Managing supply chain, vendor relations, budgeting and remote team coordination.
 - Streamline processes to improve efficiency, ensure compliance with food safety standards and support business growth
  goals.
-- Leverage Salesforce, CRM tools, and SEO strategies to enhance customer engagement, optimize workflows and boost
+- Leverage Salesforce, CRM tools and SEO strategies to enhance customer engagement, optimize workflows and boost
  market visibility.
 - Track performance metrics, prepare operational reports and implement cost-control measures to drive profitability.
 
 
 ## Projects
-# Cancer Patients
+# Lung Cancer Analysis
+This project analyses the major cause of lung cancer 
 
 
 
