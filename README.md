@@ -4,7 +4,7 @@
 # Experience
 ## PalmPay (Fintech Company)  April, 2025 - September, 2025
 # Business Intelligence Intern
-- Support the BI team with data analysis tasks, including report generation, data validation, and visualization using Power BI and SQL
+- Support the BI team with data analysis tasks, including report generation, data validation and visualization using Power BI and SQL
 - Single handedly handled a very complicated KPI metric automation
 - Improved reporting turnaround time by creating reusable Power BI templates and Excel trackers, reducing repetitive tasks by 30%
 - Identified and corrected inconsistencies in transactional data, improving data accuracy and enabling faster decision-making
@@ -32,9 +32,10 @@
 
 ## Projects
 # [Lung Cancer Analysis](https://github.com/Bukolagiant/Cancer_patients_dataset)
-This project involved analyzing a structured dataset of 1,000 patients to identify the key contributors to lung cancer risks based on lifestyle, genetic, environmental, and symptomatic factors. The project aimed to build a data-driven foundation for early detection and public health policy recommendations, particularly within the middle-aged population demographic.
+This project involved analyzing a structured dataset of 1,000 patients to identify the key contributors to lung cancer risks based on lifestyle, genetic, environmental and symptomatic factors. The project aimed to build a data-driven foundation for early detection and public health policy recommendations, particularly within the middle-aged population demographic.
 This project analyses the major cause of lung cancer 
 
+# Forensic Analysis
 
 
 
